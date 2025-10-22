@@ -18,8 +18,7 @@ HTML • CSS • JavaScript • Git & GitHub
 - Cleaning, organizing repos
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/your-handle
+- Email: contactnaziafarzana@gmail.com  
 
 ## 📊 Stats (optional)
 ![Top Langs](https://img.shields.io/badge/keep-learning-brightgreen)
