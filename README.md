@@ -2,37 +2,24 @@
 
 **CSE student @ ULAB** · Front-end practice & web programming labs
 
-### 🚀 Projects
+## 🚀 Projects
 - [club-membership](https://github.com/contactnaziafarzana-code/Club-membership) — member registration form demo  
 - [student-info-form](https://github.com/contactnaziafarzana-code/student-info-form) — accessible student form
 
-### 🧰 Tech
+## 🧰 Tech
 HTML · CSS · JavaScript · Git & GitHub
 
-# 1) Start fresh
-cd /f
-rm -rf profile
-
-# 2) Clone the (already-created) profile repo
-git clone https://github.com/contactnaziafarzana-code/contactnaziafarzana-code.git profile
-cd /f/profile
-
-# 3) Create your profile README (edit the contact lines later if you want)
-cat > README.md << 'EOF'
-# Hi, I'm Nazia 👋
-
-**CSE student @ ULAB** · Front-end practice & web programming labs
-
-### 🚀 Projects
-- [club-membership](https://github.com/contactnaziafarzana-code/Club-membership) — member registration form demo  
-- [student-info-form](https://github.com/contactnaziafarzana-code/student-info-form) — accessible student form
-
-### 🧰 Tech
-HTML · CSS · JavaScript · Git & GitHub
-
-### 🌱 Learning
+## 🌱 Learning
 Accessibility, clean forms, and project structure
 
-### 📫 Contact
-Email: your.email@example.com  
-LinkedIn: https://www.linkedin.com/in/your-handle
+## 📫 Contact
+Email: contactnaziafarzana@gmail.com
+
+---
+
+<!-- Optional eye-candy (uncomment if you like) -->
+<!--
+![Profile views](https://komarev.com/ghpvc/?username=contactnaziafarzana-code&color=brightgreen)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=contactnaziafarzana-code&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contactnaziafarzana-code&layout=compact&theme=tokyonight)
+-->
