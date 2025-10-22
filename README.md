@@ -1,5 +1,4 @@
-# create your profile repo
-mkdir contactnaziafarzana-code && cd contactnaziafarzana-code
+
 git init
 cat > README.md << 'EOF'
 # Hi, I'm Nazia 👋
