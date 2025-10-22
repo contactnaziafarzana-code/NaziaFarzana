@@ -1,4 +1,3 @@
-
 git init
 cat > README.md << 'EOF'
 # Hi, I'm Nazia 👋
